@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">
-    <img src="src/images/food.png" alt="Logo" width="80" height="80">
+    <img src="src/images/food.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Food Recipie Generator</h3>
@@ -94,7 +94,6 @@ npm start
 
 Open the application in your favourite browser 
 Some screen shots of the application
-
 
 ## Contributing
 
