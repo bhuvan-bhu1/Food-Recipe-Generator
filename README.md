@@ -1,70 +1,119 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">
+    <img src="src/images/food.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Food Recipie Generator</h3>
 
-## Available Scripts
+  <p align="center">
+    An Awesome application to find best recipies
+    <br/>
+    <br/>
+    <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">View Demo</a>
+    .
+  </p>
+</p>
 
-In the project directory, you can run:
+![Downloads](https://img.shields.io/github/downloads/bhuvan-bhu1/Food-Recipe-Generator/total) ![Stargazers](https://img.shields.io/github/stars/bhuvan-bhu1/Food-Recipe-Generator?style=social) 
 
-### `npm start`
+## Table Of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+![Screen Shot](src/images/screenshot.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A food recipe generator is a versatile and innovative tool designed to provide culinary inspiration and guidance to both novice and experienced cooks.
 
-### `npm run build`
+Wheather you are seaking for the best recipies for making good dish this application helps you with better available options for your search.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Include a diverse range of global cuisines and recipes, allowing users to explore and experience different culinary traditions and flavors. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The recipe suggestions to individual user preferences, including cuisine type,ingredient required and step by step instructions. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is build with web development and mostly used softwares are
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [React](https://react.dev/)
+* [React bootstrap](https://react-bootstrap.netlify.app/)
+* [Javascript](https://www.javascript.com/)
+* [HTML5](https://html.com/)
+* [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To Run the application in the local server user should install all the prerequisites. 
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install npm(Node Package Manager) from official website 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* npm
 
-### Code Splitting
+Check npm is Installed
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```sh
+npm --version
+```
 
-### Analyzing the Bundle Size
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone the repo
 
-### Making a Progressive Web App
+```sh
+git clone https://github.com/bhuvan-bhu1/Food-Recipe-Generator.git
+```
+2. Install NPM packages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```sh
+npm install
+```
 
-### Advanced Configuration
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+After installing all the prerequisites now run the below command in the terminal to run the react application in local server
 
-### Deployment
+```sh
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Open the application in your favourite browser 
+Some screen shots of the application
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Authors
+
+* **D V BHUVANESH** - *Computer Science Student* - [D V BHUVANESH](https://github.com/bhuvan-bhu1/) - *Build the whole project*
+
+## Acknowledgements
+
+* [React Bootstrap](https://react-bootstrap.netlify.app/)
+* [React ](https://react.dev/)
+* [Flaticons](https://www.flaticon.com/)
