@@ -13,7 +13,7 @@
     <a href="https://drive.google.com/drive/folders/1gV2zvTFH-e0Ej3tHeU9pCMiSjl8TYNd7"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">View Demo</a>
+    <a href="https://bhuvanfoodrecipieapp.netlify.app/">View Demo</a>
     .
   </p>
 </p>
