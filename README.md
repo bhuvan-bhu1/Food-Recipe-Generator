@@ -10,7 +10,7 @@
     An Awesome application to find best recipies
     <br/>
     <br/>
-    <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://drive.google.com/drive/folders/1gV2zvTFH-e0Ej3tHeU9pCMiSjl8TYNd7"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/bhuvan-bhu1/Food-Recipe-Generator">View Demo</a>
@@ -95,6 +95,17 @@ npm start
 Open the application in your favourite browser 
 Some screen shots of the application
 
+## Contributing
+
+
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Authors
 
