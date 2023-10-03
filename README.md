@@ -93,8 +93,10 @@ npm start
 
 Open the application in your favourite browser 
 Some screen shots of the application
-
+1. Saved Recipies
 ![Screen Shot](src/images/ss1.png)
+<br/>
+2.Search Recipie
 ![Screen Shot](src/images/ss2.png)
 
 ## Authors
