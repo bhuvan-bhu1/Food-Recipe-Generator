@@ -4,7 +4,7 @@
     <img src="src/images/food.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Food Recipie Generator</h3>
+  <h3 align="center">Food Recipe Generator</h3>
 
   <p align="center">
     An Awesome application to find best recipies
